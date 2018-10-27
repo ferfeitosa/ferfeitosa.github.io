@@ -1,5 +1,5 @@
 title: Fernando Feitosa
 logo: /assets/logo.png
-description: Ph.D. Candidate <br/> Department of Political Science <br/> University of Montreal <br/> <ul> <li><a href="mailto:f.feitosa.ribeiro@umontreal.ca">E-mail</a></li> <li><a href="https://twitter.com/frfeitosa">Twitter</a></li> <li><a href="https://twitter.com/frfeitosa">Twitter</a></li> <br/> <a href="/">Home</a> <br/> <a href="/publications">Publications</a> <br/> <a href="/datasets">Datasets</a> <br/>
+description: Ph.D. Candidate <br/> Department of Political Science <br/> University of Montreal <br/> <ul> <li><a href="mailto:f.feitosa.ribeiro@umontreal.ca">E-mail</a></li> <li><a href="https://twitter.com/frfeitosa">Twitter</a></li> <li><a href="https://twitter.com/frfeitosa">Twitter</a></li> <nav> <a href="/">Home</a> <a href="/publications">Publications</a> <a href="/datasets">Datasets</a> </nav>
 show_downloads: false
 theme: jekyll-theme-minimal
