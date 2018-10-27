@@ -1,18 +1,4 @@
 
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    }
-nav ul li, footer ul li {
-    display: inline;
-    }
-a {
-    text-decoration: none;
-   }
-a:hover {
-    text-decoration: underline;
-}
 h1 {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -25,10 +11,3 @@ footer {
    font-size: 1em;
 }
 
-ul.posts { 
-    font-size: 1em;
-}
-
-ul.posts li {
-    list-style: none;
-}
