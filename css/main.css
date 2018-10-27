@@ -14,19 +14,19 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 0.1em;
+    font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 0.1em;
-    line-height: 0.1em;
+    font-size: 1em;
+    line-height: 1em;
     }
 footer {
-   font-size: 0.1em;
+   font-size: 1em;
 }
 
 ul.posts { 
-    font-size: .5em;
+    font-size: 1em;
 }
 
 ul.posts li {
