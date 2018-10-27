@@ -1,4 +1,4 @@
-```I am a Ph.D. candidate at the University of Montreal. My research interests include civic duty to vote, voting behavior, political socialization, and compulsory voting.```
+``I am a Ph.D. candidate at the University of Montreal. My research interests include civic duty to vote, voting behavior, political socialization, and compulsory voting.``
 
 [Image](src)
 
