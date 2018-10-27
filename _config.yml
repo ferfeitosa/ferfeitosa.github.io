@@ -1,4 +1,5 @@
 title: <p align="center"> Fernando Feitosa </p>
 logo: /assets/logo.png
 description: 
+show_downloads: false
 theme: jekyll-theme-minimal
