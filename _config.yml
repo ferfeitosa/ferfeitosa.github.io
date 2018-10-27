@@ -3,3 +3,4 @@ logo: /assets/logo.png
 description: Ph.D. Candidate <br/> Department of Political Science <br/> University of Montreal <br/> <br> <a href="/">Home</a> <br/> <br> <a href="/publications">Publications</a> <br/> <br> <a href="/datasets">Datasets</a>  <br> <br> <ul> <li><a href="mailto:f.feitosa.ribeiro@umontreal.ca">E-mail</a></li> <li><a href="https://twitter.com/frfeitosa">Twitter</a></li> <li><a href="https://twitter.com/frfeitosa">Twitter</a></li>
 show_downloads: false
 theme: jekyll-theme-minimal
+markdown: kramdown
