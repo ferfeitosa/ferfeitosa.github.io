@@ -5,4 +5,4 @@ I research about one of the most important turnout determinants; civic duty. Mor
 Besides civic duty, I also research about compulsory voting, correct voting, and voting behavior in general.<br/> <br>
 I am a recipient of a doctoral scholarship from the [Fonds des Recherches Societes et Cultures du Quebec (FRQSC)](http://www.frqsc.gouv.qc.ca/en/).<br/> <br>
 During the Winter of 2019, I will be a visiting scholar at the [Department of Political Science from KU Leuven](https://soc.kuleuven.be/fsw/english). <br/> <br>
-See my CV [here](ferfeitosa.github.io/here.pdf).
+See my CV [here](ferfeitosa.github.io/here.pdf).2
