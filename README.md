@@ -4,6 +4,6 @@ I am a Ph.D. candidate in Political Science at the University of Montreal. My re
 
 My previous work has been published in the International Journal of Public Opinion Research, Political Behavior, and Party Politics.
 
-My research has been funded by the [Fonds des Recherches Societes et Cultures du Quebec (FRQSC)](http://www.frqsc.gouv.qc.ca/en/).<br/> <br>
+My research has been funded by the [Fonds des Recherches Societes et Cultures du Quebec (FRQSC)](http://www.frqsc.gouv.qc.ca/en/).
  
 See my CV [here](ferfeitosa.github.io/here.pdf).
