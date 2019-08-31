@@ -7,7 +7,5 @@ My research focuses on what explains electoral turnout, with a focus on attitudi
 In my doctoral dissertation, I explore a key turnout determinant; civic duty. More specifically, (1) what it means to feel a civic duty to vote, (2) where such belief comes from, and (3) what effect civic duty has on voting. 
 
 My work has been published in the International Journal of Public Opinion Research, Political Behavior, and Party Politics.
-
-My research is funded by the [Fonds des Recherches Societes et Cultures du Quebec (FRQSC)](http://www.frqsc.gouv.qc.ca/en/).
  
 See my CV [here](ferfeitosa.github.io/here.pdf).
