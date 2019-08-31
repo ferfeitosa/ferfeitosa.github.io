@@ -8,6 +8,6 @@ My dissertation explores a key turnout determinant; civic duty. More specificall
 
 My work has been published in the International Journal of Public Opinion Research, Political Behavior, and Party Politics.
 
-My research has been funded by the [Fonds des Recherches Societes et Cultures du Quebec (FRQSC)](http://www.frqsc.gouv.qc.ca/en/).
+My research is funded by the [Fonds des Recherches Societes et Cultures du Quebec (FRQSC)](http://www.frqsc.gouv.qc.ca/en/).
  
 See my CV [here](ferfeitosa.github.io/here.pdf).
