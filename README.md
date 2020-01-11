@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 
-Welcome to my website. I am a Ph.D. candidate in Political Science at the University of Montreal and expect to be in the job market on September 2021. 
+Welcome to my website. I am a Ph.D. candidate in Political Science at the University of Montreal and will be in the job market on September 2021. 
 
 My research focuses on what explains electoral turnout, with a focus on attitudinal factors.
 
