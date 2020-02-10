@@ -1,10 +1,10 @@
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 
-Welcome to my website. I am a Ph.D. candidate in Political Science at the University of Montreal and will be in the job market in September 2021. 
+Welcome to my website. I am a Ph.D. candidate in Political Science at the University of Montreal. 
 
-My research focuses on what explains electoral turnout, with a focus on attitudinal factors.
+My research focuses on why citizens vote, with a focus on civic duty.
 
-In my doctoral dissertation, I explore a key turnout determinant; civic duty. Specifically, (1) what it means to feel a civic duty to vote, (2) where such belief comes from, and (3) what effect civic duty has on voting. 
+In my doctoral dissertation, I first explore how stable is civic duty, a key turnout determinant. I then examine the role of three factors: (1) civic education, (2) compulsory voting, and (3) corruption. I find evidence that civic duty constitutes a long-term, stable motivation to vote. In this sense, civic education and compulsory voting, an institutional factor, exert an influence on citizens' belief in the duty to vote. By contrast, corruption, a short-term contextual factor, plays no role in that respect.
 
 My work has been published in the International Journal of Public Opinion Research, Election Law Journal, Political Behavior, and Party Politics.
  
