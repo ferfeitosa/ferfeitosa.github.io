@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 
-Welcome to my website. I am a Ph.D. candidate in Political Science at the University of Montreal. 
+Welcome to my website. I am a Ph.D. candidate in Political Science at the University of Montreal. My supervisors are Ruth Dassonneville and André Blais.
 
 My research examines why citizens vote, with a focus on normative considerations.
 
