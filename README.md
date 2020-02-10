@@ -8,4 +8,4 @@ In the first chapter of my doctoral dissertation, I explore how stable is civic 
 
 My work has been published in the International Journal of Public Opinion Research, Election Law Journal, Political Behavior, and Party Politics.
  
-See my CV [here](ferfeitosa.github.io/here.pdf).
+See a short version of my CV [here](ferfeitosa.github.io/here.pdf).
