@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 
-Welcome to my website. I am a Ph.D. candidate in Political Science at the University of Montreal. My supervisors are Ruth Dassonneville and André Blais.
+I am a Ph.D. candidate in Political Science at the University of Montreal. My supervisors are Ruth Dassonneville and André Blais.
 
 My research interests include political behavior and participation, political polarization, public opinion, and quantitative methods.
 
