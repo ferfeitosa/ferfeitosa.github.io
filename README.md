@@ -2,7 +2,7 @@
 
 Welcome to my website. I am a Ph.D. candidate in Political Science at the University of Montreal. My supervisors are Ruth Dassonneville and André Blais.
 
-My research interests include political behavior and participation, party competition, political polarization, political extremism, public opinion and policy responsiveness, quantitative methods.
+My research interests include political behavior and participation, political polarization, public opinion, and quantitative methods.
 
 In my doctoral dissertation, I examine why citizens vote, with a focus on citizens' sense of civic duty to vote.
 
