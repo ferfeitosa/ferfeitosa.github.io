@@ -1,6 +1,46 @@
-title: Fernando Feitosa
-logo: /assets/logo.jpg
-description: Ph.D. Candidate <br/> Department of Political Science <br/> University of Montreal <br/> <br> <a href="/">Home</a> <br/> <br> <a href="/publications">Publications</a> <br/> <br> <a href="/teaching">Teaching</a>  <br> <br> <ul> <li><a href="mailto:f.feitosa.ribeiro@umontreal.ca">E-mail</a></li> <li><a href="https://twitter.com/frfeitosa">Twitter</a></li> <li><a href="https://scholar.google.ca/citations?user=DkPlABoAAAAJ&hl=en&oi=sra">Scholar</a></li>
-show_downloads: false
-theme: jekyll-theme-minimal
-markdown: kramdown
+name: "Florence Vallée-Dubois"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: ""                             # CHANGE HERE 
+  type: cosmo
+  left:
+    - text: ""
+      icon: fa-home
+      href: index.html
+    #- text: "À propos - About"
+     # icon: fa-user 
+      #href: about.html
+    - text: "Recherche - Research"
+      #icon: fa-user 
+      href: publications.html
+    - text: "Enseignement - Teaching"
+      #icon: fa-user 
+      href: teaching.html
+    - text: "Divers - Miscellaneous"
+      menu:
+        - text: "Data viz / Visualisation"
+        #- icon:
+        - href: dataviz.html
+        - text: "Datasets / Données"
+        #- icon:
+        - href: datasets.html
+  #  - text: "Blog"
+     # icon: fa-rss
+      #href: https://YOURGITHUB.github.io/blog/  
+  right:
+    - text: ""
+      icon: fa-envelope-o
+      href: mailto:florence.vallee-dubois@umontreal.ca                     
+   # - text: "CV"
+      # icon: fa-file-pdf-o
+    #  href: cv.html
+    - text: ""
+      icon: fa-github
+      href: https://github.com/florencevdubois       
+    - text: ""
+      icon: fa-twitter
+      href: https://twitter.com/florencevdubois
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
